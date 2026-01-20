@@ -6,7 +6,7 @@ Transparent Systems is a New Zealand-based development studio focused on creatin
 ---
 
 ## 🛠 What We Do
-We specialize in Wordpress ,  Cloud Architecture ,  Cloud Architecture , Web Applications , Systems Integration , focusing on:
+We specialize in Wordpress ,  Cloud applications ,  Cloud Architecture , Web Applications , Systems Integration , focusing on:
 * **Transparency:** Open communication and clean, readable code.
 * **Performance:** Systems built to scale and endure.
 * **Integrity:** Secure and reliable software for the New Zealand market and beyond.
